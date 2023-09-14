@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jokes for fun</string>
+    <string name="title_home">Home</string>
+    <string name="title_jokes">Jokes</string>
+    <string name="title_about">About</string>
+    <string name="h1_home">Welcome to Jokester!</string>
+
+    <string name="home">Kickstart your day with a sprinkle of humor and a burst of laughter, only on Jokster!</string>
+
+    <string name="about">In a world where stress and anxiety are becoming commonplace,
+        a moment of laughter can be a precious escape. The "Jokester" app aims to be your
+        daily source of joy and laughter. This app is designed to bring a smile to your face with a collection of the funniest jokes from around the world.</string>
+</resources>
