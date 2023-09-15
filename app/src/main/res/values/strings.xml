@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Jokes for fun</string>
+    <string name="app_name">Jokester</string>
     <string name="title_home">Home</string>
     <string name="title_jokes">Jokes</string>
     <string name="title_about">About</string>

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.home.HomeFragment"
-    android:background="@drawable/worldsmile"
+    android:background="@drawable/smiley"
     >
 
     <TextView
@@ -18,12 +18,14 @@
         android:textSize="50sp"
         android:textColor="@color/black"
         android:text="@string/h1_home"
+        android:background="@drawable/white_background_border"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.086" />
+
 
 
 
